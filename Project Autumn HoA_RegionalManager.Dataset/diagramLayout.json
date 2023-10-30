@@ -1,0 +1,95 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 6266.0439387625038,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 7976.369963331389,
+            "y": 0
+          },
+          "nodeIndex": "vwOccupancyRate",
+          "size": {
+            "height": 263.8430442691743,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 8011.22771691673,
+            "y": 354.52672218590584
+          },
+          "nodeIndex": "VW_CQCUnratedLocationRatingDtls",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 7140.3119209058113,
+            "y": 532.11387025003251
+          },
+          "nodeIndex": "vwAgencyCostPercOfTotalCost",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 7199.5453976549961,
+            "y": 38.834700699250561
+          },
+          "nodeIndex": "Autumn_RMtargets",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 7640.769537087127,
+            "y": 332.44178572129778
+          },
+          "nodeIndex": "VW_CQCLocationRatingDtls",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 6498.239082144335,
+            "y": 309.59352450910973
+          },
+          "nodeIndex": "DatesTable",
+          "nodeLineageTag": "645a7d19-6d8c-4d36-84d2-0c541e513e47",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 1
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 62.016800998804612,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
